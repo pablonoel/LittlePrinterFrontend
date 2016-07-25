@@ -8,3 +8,5 @@ You can see an example of the current output <a href="https://igcdn-photos-c-a.a
 Litte Printers are currently obsolete unless you update your bridge to use this repo https://github.com/genmon/sirius/
 
 Let's print a better future for our little friends! 
+
+<img src="http://i.imgur.com/iIVGqHv.jpg" width="100%"/>
